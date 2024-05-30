@@ -1,0 +1,2 @@
+﻿def huga():
+	print("huga!")
